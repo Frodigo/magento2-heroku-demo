@@ -1604,7 +1604,7 @@
     node-html-parser "^3.2.0"
     ufo "^0.7.4"
 
-"@nuxt/image@^0.6.0":
+"@nuxt/image@^0.6.1":
   version "0.6.1"
   resolved "https://registry.yarnpkg.com/@nuxt/image/-/image-0.6.1.tgz#e7c34a85f1ea0c42d2b153172b68d801e796063a"
   integrity sha512-djQ4k7Om5Q0vPqm16A4uchFeBuIYiX8mYJiMAC+tsuPzWebLZsN/ku2v7tu3uBXZsMiDaHvq+2L/lCh5NdzjhQ==
@@ -5930,10 +5930,10 @@ dot-prop@^5.2.0:
   dependencies:
     is-obj "^2.0.0"
 
-dotenv@^12.0.1:
-  version "12.0.4"
-  resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-12.0.4.tgz#87e302cfddeef475fcaf9a617f7b44f80ac555bc"
-  integrity sha512-oWdqbSywffzH1l4WXKPHWA0TWYpqp7IyLfqjipT4upoIFS0HPMqtNotykQpD4iIg0BqtNmdgPCh2WMvMt7yTiw==
+dotenv@^16.0.0:
+  version "16.0.0"
+  resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-16.0.0.tgz#c619001253be89ebb638d027b609c75c26e47411"
+  integrity sha512-qD9WU0MPM4SWLPJy/r2Be+2WgQj8plChsyrCNQzW/0WjvcJQiKQJ9mH3ZgB3fxbUUxgc/11ZJ0Fi5KiimWGz2Q==
 
 dotenv@^9.0.2:
   version "9.0.2"
